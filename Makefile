@@ -71,14 +71,10 @@ USAGETRACKER_URL := https://usagetracker.librepilot.org/
 
 PACKAGING_EMAIL_ADDRESS := packaging@librepilot.org
 
-define DESCRIPTION_SHORT :=
-A ground control station and firmware for UAV flight controllers
+define DESCRIPTION_SHORT := hello world!
 endef
 
-define DESCRIPTION_LONG :=
-The LibrePilot open source project was founded in July 2015.
-It focuses on research and development of software and hardware to be used in a variety of applications including vehicle control and stabilization, unmanned autonomous vehicles and robotics.
-One of the project's primary goals is to provide an open and collaborative environment making it the ideal home for development of innovative ideas.
+define DESCRIPTION_LONG := hello yangjun!
 endef
 
 
